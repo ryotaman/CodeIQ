@@ -1,5 +1,6 @@
  #! ruby -EUTF-8
 # # -*- mode:ruby; coding:utf-8 -*-
+# URL https://codeiq.jp/challenge.php?challenge_id=713
 steps = 30
 @width = [1,2,3]
 @num = 0
